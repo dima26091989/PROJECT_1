@@ -1,0 +1,18 @@
+h1{
+    color: yellow;
+}
+p{
+    color: green;
+}
+.desc{
+    color: blue;
+    font-size: 30px;
+}
+.photo{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+div{
+    border: 5px solid red;
+}
